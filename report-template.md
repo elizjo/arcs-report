@@ -1,5 +1,6 @@
 # Activities
-
+| Date | Tasks
+| :--        |:--   |
 [List of items you worked on since our last meeting--all accomplishments and concepts/lessons learned. Some weeks there may not be any—-that's OK.  Including plots, images or videos is great.]
 
 # Issues
